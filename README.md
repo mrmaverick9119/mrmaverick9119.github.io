@@ -1,4 +1,4 @@
-# kishan3.github.io
+# mrmaverick9119.github.io
 
 This repository contains code for my resume github.io page.
 
